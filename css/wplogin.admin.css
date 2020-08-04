@@ -1,0 +1,13 @@
+/*
+	@package sunsettheme
+*/
+.wplogin-general-form,
+.wplogin-sidebar-preview { display: inline-block; float: left; padding: 1px 12px;}
+
+.wplogin-sidebar-preview { width: 280px; background-color: #1F1F1F; padding: 20px; text-align: center; margin-right: 20px; }
+.wplogin-sidebar { display: block; text-align: center; }
+
+.image-container { display: block; width: 100%; overflow: hidden; text-align: center; }
+.profile-picture { width: 280px; height: 280px; background-position: center center; background-repeat: no-repeat; background-size: cover; }
+
+.background-picture-directory { width: 450px; padding: 5px; border-radius: 2px; border: 1px solid rgba(0,0,0, 0.2); }
